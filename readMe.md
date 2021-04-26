@@ -9,6 +9,6 @@ Digital House | 2020 - 2021
 Aplicación de tecnologías: Javascript, Node.js, Express, HTML 5, CSS 3, Bootstrap, MySQL (Sequelize). 
 Creación de proyecto de E-Commerce desde el maquetado hasta la funcionalidad con las tecnologías nombradas
 
--[LinkDelRepositorio] https://github.com/thrasheremperor/grupo_6_biciBikes
+-[LinkDelRepositorio] (https://github.com/thrasheremperor/grupo_6_biciBikes)
 
  Éste es el proyecto integrador que desarrollamos y presentamos al final del curso junto a mi compañerxs de equipo, Sofia Vazquez, Maria Rodriguez, Matias Godoy. El mismo es un E-Commerce para una bicicleteria, pensado e inspirandonos diseños de muchas otras paginas. Utilizamos una metodología de trabajo tipo SCRUM, donde por cada sprint que se nos iba presentando debíamos cumplir los objetivos plantedos. Para la aplicación utilizamos las siguientes herramientas y tecnologías: Figma y MockFlow (para la creación de los Wireframes), Express, template engines(ejs), Css, Bootstrap, MySQL con sequelize.
