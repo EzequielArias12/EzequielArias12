@@ -18,7 +18,7 @@ Creación de proyecto de E-Commerce desde el maquetado hasta la funcionalidad co
  Coder House | 2022 - Diciembre || 2022 - Marzo
 
 En este curso sobre ReactJS, Aprendí a utilizar todos los conceptos  de la Librería (Estados,y Ciclos de vida,  Componentes y Propiedades, Context,Hooks, Router-dom, entre otros). donde realizamos un proyecto SPA utilizando la base de datos Firebase.
-- [link del proyecto](https://github.com/EzequielArias12/Khali_libreria_Arias)
+- [Link del proyecto](https://github.com/EzequielArias12/Khali_libreria_Arias)
 
 
 **Trabajo de openBootcamp**
